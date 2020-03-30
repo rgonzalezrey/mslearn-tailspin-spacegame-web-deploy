@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#fdgdgdgdfgdf
 variables:
   buildConfiguration: 'Release'
   dotnetSdkVersion: '3.1.100'
